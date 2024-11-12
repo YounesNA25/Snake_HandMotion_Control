@@ -6,6 +6,7 @@ Here's how you can run snake game using hand gestures
 `python main.py`
 
 # Directory
+```tree
 .
 ├── model
 │   ├── keypoint_classifier
