@@ -1,6 +1,6 @@
 # Snake_HandMotion_Control
 This innovative project combines the classic Snake game with gesture control, utilizing advanced technologies such as MediaPipe, OpenCV, and Pygame. The goal is to allow users to control the snake solely through hand gestures, providing an immersive and interactive gaming experience.
-https://github.com/user-attachments/assets/d9ad1933-4efb-474c-9c34-cccc0d3f0cff
+https://github.com/YounesNA25/Snake_HandMotion_Control/issues/2#issue-2652381821
 # Demo 
 Here's how you can run snake game using hand gestures 
 ```python
