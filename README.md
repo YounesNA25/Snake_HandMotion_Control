@@ -3,7 +3,9 @@ This innovative project combines the classic Snake game with gesture control, ut
 
 # Demo 
 Here's how you can run snake game using hand gestures 
-`python main.py`
+```python
+python main.py
+```
 
 # Directory
 ```tree
@@ -31,7 +33,7 @@ Here's how you can run snake game using hand gestures
 ├── main.py
 ├── README.md
 └── requirements.txt
-
+```
 # Classifier Model Architecture 
 ![102246771-7481ff00-3f42-11eb-8ddf-9e3cc30c5816](https://github.com/user-attachments/assets/20146fa6-7500-4207-9e34-2a6e015aaf4e)
 
